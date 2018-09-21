@@ -7,6 +7,7 @@ https://jira.devfactory.com/browse/VASONA-?????
 -
 
 **Checklist**
+- [ ] My branch is properly named (feature/[JIRA-Ticket]-small-desc, bugfix/[JIRA-Ticket])
 - [ ] I checked I'm only including the changes I intend to make and nothing else
 - [ ] The PR summary starts with the ticket number, e.g.: 'VASONA-?????: ....'
 - [ ] The latest changes from develop branch are merged

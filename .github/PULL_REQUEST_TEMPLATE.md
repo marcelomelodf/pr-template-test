@@ -1,4 +1,7 @@
-#### Delete everything above this line (including the line itself)  ####
+#### If your commit log was properly formatted, the above lines will ####
+#### contain the changes proposed in the pull request                ####
+#### Then just copy and paste them to the correct location           ####
+#### Delete everything above this line (including the line itself)   ####
 **JIRA Ticket URL:**
 https://jira.devfactory.com/browse/JIRA-XXX
 

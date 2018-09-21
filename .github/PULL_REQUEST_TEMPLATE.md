@@ -17,7 +17,7 @@ https://jira.devfactory.com/browse/JIRA-XXX
 - [] The latest changes from develop branch are merged
 - [] The commit log does not contain unnecessary commits (rebase, squash, push force if needed)
 - [] The required unit tests are added
-- [] The checks have been verified to succeed
+- [] The build checks have been verified to succeed
 - [] All the reviewers are assigned (PCA & Team reviewer at least)
 - [] If this PR is chained to another, there is a note like: 'IMPORTANT: This PR is chained with #...'
 

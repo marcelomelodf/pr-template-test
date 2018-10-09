@@ -1,7 +1,6 @@
-#### If your commit log was properly formatted, the above lines will ####
-#### contain the changes proposed in the pull request                ####
-#### Then just copy and paste them to the correct location           ####
-#### Delete everything above this line (including the line itself)   ####
+#### If your commit log was properly formatted, the above lines will contain the changes proposed in the pull request
+#### If they exist, just cut and paste them to the correct location below
+#### Delete this line and all others above
 **JIRA Ticket URL:**
 https://jira.devfactory.com/browse/JIRA-XXX
 
@@ -11,17 +10,17 @@ https://jira.devfactory.com/browse/JIRA-XXX
 -
 
 **Checklist**
-- [] The PR title contains the JIRA ticket number and a brief description ([JIRA-XXX] brief desc)
-- [] The branch is properly named (feature/JIRA-XXX-brief-desc, bugfix/JIRA-XXX)
-- [] Only including the changes intended and nothing else
-- [] The latest changes from develop branch are merged
-- [] The commit log does not contain unnecessary commits (rebase, squash, push force if needed)
-- [] The required unit tests are added
-- [] The build checks have been verified to succeed
-- [] All the reviewers are assigned (PCA & Team reviewer at least)
-- [] If this PR is chained to another, there is a note like: 'IMPORTANT: This PR is chained with #...'
+- [ ] The PR title contains the JIRA ticket number and a brief description ([JIRA-XXX] brief desc)
+- [ ] The branch is properly named (feature/JIRA-XXX-brief-desc, bugfix/JIRA-XXX)
+- [ ] Only including the changes intended and nothing else
+- [ ] The latest changes from develop branch are merged
+- [ ] The commit log does not contain unnecessary commits (rebase, squash, push force if needed)
+- [ ] The required unit tests are added
+- [ ] The build checks have been verified to succeed
+- [ ] All the reviewers are assigned (PCA & Team reviewer at least)
+- [ ] If this PR is chained to another, there is a note like: 'IMPORTANT: This PR is chained with #...'
 
-#### Delete everything under this line (including the line itself)  ####
+#### #### Delete this line and all others below
 To fail the previous checklist will just delay the approval of your PR.
 
 Notes:
